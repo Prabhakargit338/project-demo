@@ -1,4 +1,4 @@
 ddd# project-demo
 This my first git repository.
 <br>
-Author - Prabhakar Mandal
+Author - Prabhakar Kumar Mandal
